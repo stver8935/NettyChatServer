@@ -37,7 +37,7 @@ public class DBconnector {
 		
 			if(con == null) {
 			//해당 데이터베이스 연결
-			 con = DriverManager.getConnection(url,"root","stver841012");
+			 con = DriverManager.getConnection(url,"디비 아이디","디비비밀번호");
 			System.out.println("db 연결 성공");
 			}
 			if(stmt == null) {
