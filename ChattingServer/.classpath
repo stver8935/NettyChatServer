@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main"/>
+	<classpathentry kind="src" path="src/test"/>
+	<classpathentry kind="lib" path="lib/netty-all-4.1.6.Final.jar" sourcepath="C:/Program Files/Java/jdk1.8.0_241/src.zip">
+		<attributes>
+			<attribute name="source_encoding" value="UTF-8"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/netty-all-4.1.6.Final-sources.jar" sourcepath="C:/Program Files/Java/jdk1.8.0_241/src.zip"/>
+	<classpathentry kind="lib" path="C:/Users/gksrlgud/Desktop/WorkingTool/Library/gson-2.8.6.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.8.0_241/jre/lib/ext/mysql-connector-java-8.0.22.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.8.0_241"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
